@@ -1,5 +1,5 @@
 def fizzbuzz (num)
-  if num % 3.0 == 0
+  if num % 3.0 == 0 && num%
     "Fizz"
   elsif num % 5.0 == 0
     "Buzz"
